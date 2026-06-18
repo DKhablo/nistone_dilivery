@@ -1,0 +1,19 @@
+{
+  "653929797": [
+    {
+      "temp_messages": [],
+      "order_number": "А",
+      "address": "Аа",
+      "time_interval": "А",
+      "phone": "А",
+      "amount": "К",
+      "comment": "К",
+      "order_id": 1,
+      "user_id": 653929797,
+      "chat_id": 653929797,
+      "created_at": "2026-06-18T16:48:12.649214",
+      "status": "ready",
+      "message_id": 57
+    }
+  ]
+}
